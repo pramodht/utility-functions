@@ -1,3 +1,3 @@
 function randomUser(){
-	console.log('feature branch changes');
+	console.log('feature branch changes')
 }
